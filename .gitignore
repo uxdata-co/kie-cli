@@ -20,5 +20,5 @@ ledger.jsonl
 .vscode/
 .idea/
 
-# the website lives in julio-daza/kie-landing; a leftover local copy is ignored
+# the website lives in uxdata-co/kie-landing; a leftover local copy is ignored
 /landing/

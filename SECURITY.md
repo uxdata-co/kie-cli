@@ -5,7 +5,7 @@
 ## Reporting a vulnerability
 
 Please **do not** open a public issue for security problems. Use
-[GitHub Security Advisories](https://github.com/julio-daza/kie-cli/security/advisories/new)
+[GitHub Security Advisories](https://github.com/uxdata-co/kie-cli/security/advisories/new)
 to report privately. You should get an acknowledgement within a few days.
 
 ## What counts
