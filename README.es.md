@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://kiecli.com/es/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julio-daza/kie-cli/main/docs/assets/logo-dark.png">
-      <img src="https://raw.githubusercontent.com/julio-daza/kie-cli/main/docs/assets/logo-light.png" alt="KIE CLI" width="320">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uxdata-co/kie-cli/main/docs/assets/logo-dark.png">
+      <img src="https://raw.githubusercontent.com/uxdata-co/kie-cli/main/docs/assets/logo-light.png" alt="KIE CLI" width="320">
     </picture>
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@uxdata-co/kie"><img src="https://img.shields.io/npm/v/%40uxdata-co%2Fkie?logo=npm&color=cb3837" alt="npm"></a>
-  <a href="https://github.com/julio-daza/kie-cli/actions/workflows/ci.yml"><img src="https://github.com/julio-daza/kie-cli/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/uxdata-co/kie-cli/actions/workflows/ci.yml"><img src="https://github.com/uxdata-co/kie-cli/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://www.npmjs.com/package/@uxdata-co/kie"><img src="https://img.shields.io/badge/dependencias-0-00a8ff" alt="0 dependencias"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-blue.svg" alt="MIT"></a>
 </p>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julio-daza/kie-cli/main/docs/assets/terminal.png" alt="kie en una terminal: banner de KIE, panel de créditos con medidor de presupuesto y una generación de imagen completándose con la ruta del archivo y los créditos gastados" width="640">
+  <img src="https://raw.githubusercontent.com/uxdata-co/kie-cli/main/docs/assets/terminal.png" alt="kie en una terminal: banner de KIE, panel de créditos con medidor de presupuesto y una generación de imagen completándose con la ruta del archivo y los créditos gastados" width="640">
 </p>
 
 > **¿Usas un agente de IA?** Apúntalo a **<https://kiecli.com/skill.md>** — una
@@ -99,9 +99,9 @@ Referencia completa: **[kiecli.com/es/docs](https://kiecli.com/es/docs)** · REA
 ## Estructura del repositorio
 
 - [`kie/`](kie/) — la CLI (TypeScript, cero dependencias en runtime) y sus tests.
-- [`skills/kie-media/`](skills/kie-media/) — el skill de agente (`kie skill install`, o `npx skills add julio-daza/kie-cli`).
+- [`skills/kie-media/`](skills/kie-media/) — el skill de agente (`kie skill install`, o `npx skills add uxdata-co/kie-cli`).
 - [`docs/assets/`](docs/assets/) — logo y capturas usadas por los READMEs.
-- Sitio web: [julio-daza/kie-landing](https://github.com/julio-daza/kie-landing) → [kiecli.com](https://kiecli.com/es/)
+- Sitio web: [uxdata-co/kie-landing](https://github.com/uxdata-co/kie-landing) → [kiecli.com](https://kiecli.com/es/)
 
 Ver [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md) y [CHANGELOG.md](CHANGELOG.md).
 

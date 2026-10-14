@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://kiecli.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julio-daza/kie-cli/main/docs/assets/logo-dark.png">
-      <img src="https://raw.githubusercontent.com/julio-daza/kie-cli/main/docs/assets/logo-light.png" alt="KIE CLI" width="320">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uxdata-co/kie-cli/main/docs/assets/logo-dark.png">
+      <img src="https://raw.githubusercontent.com/uxdata-co/kie-cli/main/docs/assets/logo-light.png" alt="KIE CLI" width="320">
     </picture>
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@uxdata-co/kie"><img src="https://img.shields.io/npm/v/%40uxdata-co%2Fkie?logo=npm&color=cb3837" alt="npm"></a>
-  <a href="https://github.com/julio-daza/kie-cli/actions/workflows/ci.yml"><img src="https://github.com/julio-daza/kie-cli/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/uxdata-co/kie-cli/actions/workflows/ci.yml"><img src="https://github.com/uxdata-co/kie-cli/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://www.npmjs.com/package/@uxdata-co/kie"><img src="https://img.shields.io/badge/dependencies-0-00a8ff" alt="0 dependencies"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT"></a>
 </p>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julio-daza/kie-cli/main/docs/assets/terminal.png" alt="kie in a terminal: KIE banner, credits panel with a budget meter, and an image generation completing with the file path and credits spent" width="640">
+  <img src="https://raw.githubusercontent.com/uxdata-co/kie-cli/main/docs/assets/terminal.png" alt="kie in a terminal: KIE banner, credits panel with a budget meter, and an image generation completing with the file path and credits spent" width="640">
 </p>
 
 > **Using an AI agent?** Point it at **<https://kiecli.com/skill.md>** — a single
@@ -98,9 +98,9 @@ Full reference: **[kiecli.com/docs](https://kiecli.com/docs)** · package README
 ## Repository layout
 
 - [`kie/`](kie/) — the CLI (TypeScript, zero runtime dependencies) and its tests.
-- [`skills/kie-media/`](skills/kie-media/) — the agent skill (`kie skill install`, or `npx skills add julio-daza/kie-cli`).
+- [`skills/kie-media/`](skills/kie-media/) — the agent skill (`kie skill install`, or `npx skills add uxdata-co/kie-cli`).
 - [`docs/assets/`](docs/assets/) — logo and screenshots used by the READMEs.
-- Website: [julio-daza/kie-landing](https://github.com/julio-daza/kie-landing) → [kiecli.com](https://kiecli.com)
+- Website: [uxdata-co/kie-landing](https://github.com/uxdata-co/kie-landing) → [kiecli.com](https://kiecli.com)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md) and [CHANGELOG.md](CHANGELOG.md).
 
